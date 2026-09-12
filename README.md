@@ -26,4 +26,4 @@ Coordinated with two classmates to create a laptop e-store. I was responsible fo
 - Calling private instance variables, assigning reference and primitive values
 
 ## Areas of Concern
-- Some features may need updates for compatibility since this was built over 1 year ago
+Some features may need updates for compatibility since this was built over 1 year ago
