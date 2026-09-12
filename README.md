@@ -4,16 +4,16 @@ Created on Eclipse using Java on November 25, 2024. Uploaded onto Github Saturda
 ## Description
 Coordinated with two classmates to create a laptop e-store. I was responsible for researching and uploading the laptop stats onto the project, as well as creating the laptop store page and sorting buttons to allow users to filter their search. Laptop information was uploaded from the web and their stats were imported into a .txt file that is used to function the GUI.
 
-## Built With
-- Java
-- Java Swing/AWT (GUI)
-
 ## Features
 - Title page
 - Search bar
 - Result number display
 - Sort by price, brand, CPU type, rating, and usage type
 - Buttons leading users to homepage and surveying form
+
+## Built With
+- Java
+- Java Swing/AWT (GUI)
 
 ## Major Skills
 - Arrays (creating an array for all laptop instances)
