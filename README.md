@@ -1,4 +1,4 @@
-# Tech Haven Laptop E-Store
+# "Tech Haven" Laptop E-Store
 Created on Eclipse using Java on November 25, 2024. Uploaded onto Github Saturday Sep 12, 2026. Open in Eclipse or IntelliJ to run TechHavenApplication.java
 
 ## Description
@@ -23,7 +23,7 @@ Coordinated with two classmates to create a laptop e-store. I was responsible fo
 - File Reader & Scanner
 - Try and catch to read/write a file
 - Calling getter and setter methods and creating a toString method
-- Calling private instance variables, assigning reference and primitive values, 
+- Calling private instance variables, assigning reference and primitive values
 
 ## Areas of Concern
 - Some features may need updates for compatibility since this was built over 1 year ago
